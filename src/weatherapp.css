@@ -1,0 +1,23 @@
+body{
+    margin-top: 30px;
+    background-color:  #e6e9ea; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin: 10px,0;
+    height: 500px;
+    overflow: hidden;
+}
+
+.weatherapp{
+    background-image: url(../src/assets/backgroundImage.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 400px;
+    padding: 20px;
+    box-shadow: 0 0 8px rgba(0,0,0,1);
+    
+    
+}
+

@@ -1,0 +1,29 @@
+.searchbox{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.error{
+    color: red;
+    height: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    
+}
+.error span{
+    visibility: visible;
+}
+
+.error:empty{
+    visibility: hidden;
+}
+#city{
+    height: 15px;
+    background-color: aliceblue;
+}
+
+button:hover{
+    box-shadow: 10px 0 10px rgba(0,0,0,1);
+    color: black;
+}
+
